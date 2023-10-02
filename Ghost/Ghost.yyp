@@ -9,6 +9,7 @@
     {"id":{"name":"opj_ghost","path":"objects/opj_ghost/opj_ghost.yy",},"order":0,},
     {"id":{"name":"enemigo","path":"sprites/enemigo/enemigo.yy",},"order":3,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
